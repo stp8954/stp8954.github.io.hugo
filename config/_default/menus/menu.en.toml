@@ -4,8 +4,8 @@
   weight = -110
 
 [[main]]
-  name = "Technology"
-  url = "categories/themes/"
+  name = "Archives"
+  url = "post/rich-content/"
   weight = -109
 
 # Submenus are done this way: parent -> identifier
@@ -16,11 +16,11 @@
 [[main]]
   parent = "Links"
   name = "LinkedIn"
-  url = "https://www.linkedin.com/in/sanket8954"
+  url = "https://www.linkedin.com/"
 [[main]]
   parent = "Links"
-  name = "Twitter"
-  url = "https://twitter.com/stp8954"
+  name = "X"
+  url = "https://x.com/"
 
 [[main]]
   name = "About"
@@ -33,15 +33,15 @@
   name = "github"
   type = "social"
   weight = 1
-  url = "https://github.com/stp8954"
+  url = "https://github.com/#"
 [[social]]
-  name = "twitter"
+  name = "X"
   weight = 2
-  url = "https://twitter.com/stp8954"
+  url = "https://x.com/#"
 [[social]]
   name = "linkedin"
   weight = 3
-  url = "https://www.linkedin.com/in/sanket8954"
+  url = "https://www.linkedin.com/in/#"
 [[social]]
   name = "rss"
   weight = 4
@@ -60,3 +60,5 @@
 # url = "https://gitlab.com/#"
 # name = "discord"
 # url = "https://discord.gg/#"
+# name = "bluesky"
+# url = "https://bsky.app/profile/#"
